@@ -8,3 +8,4 @@ aa_stripe
 django-paypal
 pinax-stripe
 dj-stripe
+dj-stripe
