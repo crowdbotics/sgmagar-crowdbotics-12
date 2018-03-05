@@ -9,3 +9,4 @@ django-paypal
 pinax-stripe
 dj-stripe
 dj-stripe
+dj-paypal
